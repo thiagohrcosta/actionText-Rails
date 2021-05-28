@@ -25,5 +25,8 @@ Download or clone it. . Then run in the main folder the command  `rails server`.
 
 ** May 28 **
 
-  - Project created with rails
-  -
+  - Project created with rails;
+  - Add scaffold;
+  - Add model and controller post;
+  - Run migrations;
+  - Add CSS and Bootstrap to main pages.
