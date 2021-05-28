@@ -1,1 +1,17 @@
 // Specific CSS for your home-page
+
+
+.main-content{
+  display: flex;
+  justify-content: space-between;
+}
+
+.btns{
+  display: flex;
+  justify-content: space-between;
+}
+
+.posts-container{
+  margin: 0 auto;
+  width: 60%;
+}
